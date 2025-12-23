@@ -21,6 +21,97 @@
       "addedBy": "Admin",
       "addedDate": "2024-12-23T15:30:00Z",
       "notes": ""
+    },
+    "123456789": {
+      "username": "Usuario3",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T12:00:00Z",
+      "notes": "Miembro regular"
+    },
+    "234567890": {
+      "username": "Usuario4",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T12:15:00Z",
+      "notes": ""
+    },
+    "345678901": {
+      "username": "Usuario5",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T12:30:00Z",
+      "notes": "Acceso de prueba"
+    },
+    "456789012": {
+      "username": "Usuario6",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T13:00:00Z",
+      "notes": ""
+    },
+    "567890123": {
+      "username": "Usuario7",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T13:30:00Z",
+      "notes": "Usuario premium"
+    },
+    "678901234": {
+      "username": "Usuario8",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T14:00:00Z",
+      "notes": ""
+    },
+    "789012345": {
+      "username": "Usuario9",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T14:30:00Z",
+      "notes": ""
+    },
+    "890123456": {
+      "username": "Usuario10",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T15:00:00Z",
+      "notes": "Acceso temporal"
+    },
+    "901234567": {
+      "username": "Usuario11",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T15:30:00Z",
+      "notes": ""
+    },
+    "112233445": {
+      "username": "Usuario12",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T16:00:00Z",
+      "notes": "VIP Gold"
+    },
+    "223344556": {
+      "username": "Usuario13",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T16:30:00Z",
+      "notes": ""
+    },
+    "334455667": {
+      "username": "Usuario14",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T17:00:00Z",
+      "notes": "Miembro activo"
+    },
+    "445566778": {
+      "username": "Usuario15",
+      "expiration": 1735689600,
+      "addedBy": "Admin",
+      "addedDate": "2024-12-22T17:30:00Z",
+      "notes": ""
     }
   },
   "blacklist": {
@@ -29,12 +120,18 @@
       "reason": "Violación de términos de servicio",
       "bannedDate": "2024-12-20T00:00:00Z",
       "bannedBy": "Admin"
+    },
+    "999888777": {
+      "username": "HackerBanned",
+      "reason": "Intento de exploit",
+      "bannedDate": "2024-12-21T10:00:00Z",
+      "bannedBy": "Admin"
     }
   },
   "metadata": {
-    "totalUsers": 2,
-    "totalBanned": 1,
-    "createdAt": "2024-12-22T00:00:00Z",
-    "notes": "Edita este archivo directamente desde GitHub para agregar/quitar usuarios"
+    "totalUsers": 15,
+    "totalBanned": 2,
+    "activeUsers": 15,
+    "lastCleanup": "2024-12-22T00:00:00Z"
   }
 }
